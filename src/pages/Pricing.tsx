@@ -263,10 +263,10 @@ export default Pricing;
 
 const Ball = styled.span`
   position: absolute;
-  top: 4px;
-  left: 4px;
-  width: 20px;
-  height: 20px;
+  top: 1px;
+  left: 1px;
+  width: 23px;
+  height: 23px;
   border-radius: 50%;
   background-color:black;
   transition: 0.4s;
@@ -276,10 +276,10 @@ const Ball = styled.span`
 
 const Ballcklicked = styled.span`
   position: absolute;
-  top: 4px;
-  right: 4px;
-  width: 20px;
-  height: 20px;
+  top: 1px;
+  right: 1px;
+  width: 23px;
+  height: 23px;
   border-radius: 50%;
   background-color:black;
   transition: 0.4s;
